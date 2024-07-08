@@ -143,7 +143,7 @@ const miModulo = (() => {
 
         btnPedir.disabled = true;
         btnDetener.disabled = true;
-        turnoComputador(puntosJugadores);  
+        turnoComputador(puntosJugadores[0]);  
 
     })
 
